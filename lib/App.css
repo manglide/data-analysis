@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.navhome {
+  height: auto;
+  overflow: auto;
+  width: 100%;
+  margin: auto;
+  padding: 15px;
+  border: thin solid red;
+}
+
+.filter {
+  padding: 12px;
+}
+
+.navhomeSel {
+  height: auto;
+  overflow: auto;
+  width: 100%;
+  margin: auto;
+  padding: 15px;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
